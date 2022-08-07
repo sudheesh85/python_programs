@@ -1,3 +1,5 @@
+#this the code pfr pdf tp audio
+
 import pyttsx3
 import PyPDF2
 book = open('/Users/sudheeshmadathil/Documents/SWAMI-VIVEKANANDA-COMPLETE-WORKS-Vol-9.pdf', 'rb')
